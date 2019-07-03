@@ -1,0 +1,5 @@
+C:\Work\WorkStation\RPA\CustomPackages\CustomPackages\Code\CopyFileToNetworkFolder\bin\Release\CopyFileToNetworkFolder.dll
+C:\Work\WorkStation\RPA\CustomPackages\CustomPackages\Code\CopyFileToNetworkFolder\bin\Release\CopyFileToNetworkFolder.pdb
+C:\Work\WorkStation\RPA\CustomPackages\CustomPackages\Code\CopyFileToNetworkFolder\obj\Release\CopyFileToNetworkFolder.csproj.CoreCompileInputs.cache
+C:\Work\WorkStation\RPA\CustomPackages\CustomPackages\Code\CopyFileToNetworkFolder\obj\Release\CopyFileToNetworkFolder.dll
+C:\Work\WorkStation\RPA\CustomPackages\CustomPackages\Code\CopyFileToNetworkFolder\obj\Release\CopyFileToNetworkFolder.pdb

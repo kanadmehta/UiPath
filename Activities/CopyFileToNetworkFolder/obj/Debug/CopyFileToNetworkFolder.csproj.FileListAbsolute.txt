@@ -1,0 +1,12 @@
+C:\Work\WorkStation\RPA\ImpersonateUser\CopyFileToNetworkFolder\bin\Debug\CopyFileToNetworkFolder.dll
+C:\Work\WorkStation\RPA\ImpersonateUser\CopyFileToNetworkFolder\bin\Debug\CopyFileToNetworkFolder.pdb
+C:\Work\WorkStation\RPA\ImpersonateUser\CopyFileToNetworkFolder\obj\Debug\CopyFileToNetworkFolder.csprojAssemblyReference.cache
+C:\Work\WorkStation\RPA\ImpersonateUser\CopyFileToNetworkFolder\obj\Debug\CopyFileToNetworkFolder.csproj.CoreCompileInputs.cache
+C:\Work\WorkStation\RPA\ImpersonateUser\CopyFileToNetworkFolder\obj\Debug\CopyFileToNetworkFolder.dll
+C:\Work\WorkStation\RPA\ImpersonateUser\CopyFileToNetworkFolder\obj\Debug\CopyFileToNetworkFolder.pdb
+C:\Work\WorkStation\RPA\CustomPackages\CustomPackages\Code\CopyFileToNetworkFolder\bin\Debug\CopyFileToNetworkFolder.dll
+C:\Work\WorkStation\RPA\CustomPackages\CustomPackages\Code\CopyFileToNetworkFolder\bin\Debug\CopyFileToNetworkFolder.pdb
+C:\Work\WorkStation\RPA\CustomPackages\CustomPackages\Code\CopyFileToNetworkFolder\obj\Debug\CopyFileToNetworkFolder.csprojAssemblyReference.cache
+C:\Work\WorkStation\RPA\CustomPackages\CustomPackages\Code\CopyFileToNetworkFolder\obj\Debug\CopyFileToNetworkFolder.csproj.CoreCompileInputs.cache
+C:\Work\WorkStation\RPA\CustomPackages\CustomPackages\Code\CopyFileToNetworkFolder\obj\Debug\CopyFileToNetworkFolder.dll
+C:\Work\WorkStation\RPA\CustomPackages\CustomPackages\Code\CopyFileToNetworkFolder\obj\Debug\CopyFileToNetworkFolder.pdb
