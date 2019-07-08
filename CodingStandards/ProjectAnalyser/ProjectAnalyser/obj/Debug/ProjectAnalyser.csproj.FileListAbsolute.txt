@@ -1,0 +1,7 @@
+C:\Users\u6ic_kme\source\repos\ProjectAnalyser\ProjectAnalyser\bin\Debug\ProjectAnalyser.exe.config
+C:\Users\u6ic_kme\source\repos\ProjectAnalyser\ProjectAnalyser\bin\Debug\ProjectAnalyser.exe
+C:\Users\u6ic_kme\source\repos\ProjectAnalyser\ProjectAnalyser\bin\Debug\ProjectAnalyser.pdb
+C:\Users\u6ic_kme\source\repos\ProjectAnalyser\ProjectAnalyser\obj\Debug\ProjectAnalyser.csprojAssemblyReference.cache
+C:\Users\u6ic_kme\source\repos\ProjectAnalyser\ProjectAnalyser\obj\Debug\ProjectAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\u6ic_kme\source\repos\ProjectAnalyser\ProjectAnalyser\obj\Debug\ProjectAnalyser.exe
+C:\Users\u6ic_kme\source\repos\ProjectAnalyser\ProjectAnalyser\obj\Debug\ProjectAnalyser.pdb
